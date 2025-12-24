@@ -19,5 +19,3 @@ This project applies a probabilistic machine learning approach to classify breas
 ## Tools
 Python, NumPy, scikit-learn
 
-## How to Run
-Open `NaiveBayes.ipynb` in Google Colab or Jupyter and run all cells.
